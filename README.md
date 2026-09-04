@@ -1,5 +1,10 @@
 # Jogo da Velha com Minimax e Poda Alfa-Beta
 
+![Python 3](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-ED0000?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-Minimax_%26_Poda_Alfa--Beta-blueviolet?style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
 Este repositório contém uma implementação do clássico jogo da velha (tic-tac-toe), utilizando o algoritmo Minimax com otimização de poda Alfa-Beta. O projeto foi desenvolvido como parte de um trabalho acadêmico para a disciplina de **Inteligência Artificial**.
 
 ## Funcionalidades
@@ -39,6 +44,7 @@ Este repositório contém uma implementação do clássico jogo da velha (tic-ta
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Guimathis/Inteligencia-Artificial-MiniMax-Trabalho-1.git
+   ```
    
 - Execute a partir do arquivo main.py para interface textual
 - Execute a partir do arquivo GUIpygame.py para interface gráfica
